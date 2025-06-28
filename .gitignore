@@ -1,0 +1,33 @@
+# Android
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+.DS_Store
+captures/
+.externalNativeBuild
+.cxx
+
+# Kotlin
+*.class
+*.kotlin_module
+
+# Dependency directories
+/node_modules
+/app/build
+
+# Logging
+*.log
+
+# Testing
+/app/reports
+/app/test-results
+
+# Sensitive information
+*.env
+*.keystore
+
+# System files
+.DS_Store
+Thumbs.db
