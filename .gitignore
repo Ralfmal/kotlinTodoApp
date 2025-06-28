@@ -1,0 +1,28 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Kotlin
+*.class
+*.log
+
+# Dependency directories
+/node_modules/
+/app/build/
+
+# Sensitive files
+*.env
+*.key
+
+# Logs
+*.log
+
+# Test coverage
+/coverage/
